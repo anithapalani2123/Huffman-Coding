@@ -76,14 +76,5 @@ for (char, frequency) in freq:
 ![output](https://user-images.githubusercontent.com/94184990/174756638-2375fcdf-2062-48c8-86da-22ae36645488.png)
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
